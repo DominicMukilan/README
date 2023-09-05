@@ -2,7 +2,7 @@
 <h3 align="left">An ML Enthusiast</h3>
 
 - 🧑🏼‍💻 Data Science & Artificial Intelligence is my core subject areas
-- 📫 How to reach me **dominicmukilan@gmail.com**
+- 📫 Mail me **dominicmukilan@gmail.com**
 
 <p align="left">
 </p>
